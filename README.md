@@ -676,6 +676,11 @@ For instance, if you requested the  Netherlands variation of Dutch (code `nl_NL`
             <td>sv_SE</td>
         </tr>
         <tr>
+            <td>Tamil</td>
+            <td>India</td>
+            <td>ta_TA</td>
+        </tr>        
+        <tr>
             <td>Thai (Western digits)</td>
             <td>Thailand</td>
             <td>th_TH</td>
